@@ -1,5 +1,5 @@
-## Trip Planning AI Agent
-# By Anupam Chauhan
+# Trip Planning AI Agent
+## By Anupam Chauhan
 
 
 
