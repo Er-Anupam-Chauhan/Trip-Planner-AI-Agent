@@ -32,6 +32,7 @@ def add(a: int, b: int) -> int:
     """
     return a + b
 
+
 @tool
 def currency_converter(from_curr: str, to_curr: str, value: float)->float:
     os.environ["ALPHAVANTAGE_API_KEY"] = os.getenv('ALPHAVANTAGE_API_KEY')
