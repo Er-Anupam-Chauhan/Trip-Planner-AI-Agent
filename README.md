@@ -16,3 +16,27 @@
 | `env\Scripts\activate`                                    | **Activate** the virtual environment (Windows).                         |
 | `uv pip list`                                             | List **packages installed** in the active environment (via uv’s pip).   |
 | `pip install -r requirements.txt`                         | Install **all dependencies** listed in `requirements.txt`.              |
+
+
+## The Agent Graph
+![alt text](image.png)
+
+## Demo pics
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
