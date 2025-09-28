@@ -19,11 +19,12 @@
 
 
 ## The Agent Graph
-![alt text](image.png)
+<img width="386" height="434" alt="image" src="https://github.com/user-attachments/assets/5e1d8009-cbaf-4de6-99de-db665c881703" />
+
 
 ## Demo pics
 
-#Prompt : Plan a trip to Pune for % days 
+# Prompt : Plan a trip to Pune for % days 
 
 <img width="1149" height="565" alt="image" src="https://github.com/user-attachments/assets/7482b6b7-ce6b-4055-86b2-5649446f78ab" />
 
